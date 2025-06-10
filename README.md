@@ -1,16 +1,21 @@
 # expenses
 
-A new Flutter project.
+Projeto de controle financeiro pessoal.
+
+## Sobre o Projeto
+
+Este é um aplicativo Flutter para controle de gastos diários. A ideia principal é ajudar o usuário a monitorar suas despesas ao longo da semana de forma visual e intuitiva.
+
+O app apresenta gráficos que mostram os custos distribuídos pelos dias da semana, facilitando a análise de onde o dinheiro está sendo mais gasto e permitindo um melhor planejamento financeiro.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Se você está começando com Flutter, confira os seguintes recursos para se familiarizar:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para ajuda com desenvolvimento Flutter, visite a  
+[documentação online](https://docs.flutter.dev/), que oferece tutoriais, exemplos e referência completa da API.
